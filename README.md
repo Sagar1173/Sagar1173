@@ -28,9 +28,9 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sagarthapa" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/sagarthapa" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:sagarthapa@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sagar-thapa-050191302/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+
+  <a href="mailto:thapasagar1173@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## 📈 Profile Views
