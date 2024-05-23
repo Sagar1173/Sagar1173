@@ -16,11 +16,52 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagar_Thapa&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SagarThapa&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar_Thapa&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarThapa&layout=compact&theme=radical" alt="Top Languages">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar_Thapa&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarThapa&theme=radical" alt="GitHub Streak">
 </p>
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sagarthapa" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/sagarthapa" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:sagarthapa@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+</p>
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SagarThapa&style=flat-square&color=blue" alt="Profile Views">
+</p>
+
+## 💡 Quote or Motto
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1DA1F2&center=true&width=600&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.">
+</p>
+
+## 🔄 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<script>
+  const now = new Date();
+  const hours = now.getHours();
+  let greeting;
+
+  if (hours < 12) {
+    greeting = 'Good Morning';
+  } else if (hours < 18) {
+    greeting = 'Good Afternoon';
+  } else {
+    greeting = 'Good Evening';
+  }
+
+  document.querySelector('h1').innerHTML = `Hi there, ${greeting} <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">`;
+</script>
