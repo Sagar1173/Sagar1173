@@ -3,7 +3,7 @@
 </p>
 <br/>
 <div align="center">
-<p> 🔭 I’m currently working on **Baliyo Ventures**</p>
+<p> 🔭 I’m currently working in **Baliyo Ventures**</p>
 <p> 🌱 I’m currently learning **Docker, Kubernetes, Jenkins** </p>
 </div>
 <br/>
@@ -19,8 +19,8 @@
 <br></br>
 ## 📊 GitHub Stats
 <p align="center">
-  <img width=400 height=500 src="https://github-readme-stats.vercel.app/api?username=SagarThapa&show_icons=true&theme=radical" alt="GitHub Stats">&ensp;
-  <img width=400 height=500 src="https://github-readme-streak-stats.herokuapp.com/?user=SagarThapa&theme=radical" alt="GitHub Streak">
+  <img width=400  src="https://github-readme-stats.vercel.app/api?username=SagarThapa&show_icons=true&theme=radical" alt="GitHub Stats">&ensp;
+  <img width=400  src="https://github-readme-streak-stats.herokuapp.com/?user=SagarThapa&theme=radical" alt="GitHub Streak">
 </p>
 
 <br></br>
