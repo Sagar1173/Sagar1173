@@ -2,30 +2,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Sagar+Thapa;I'm+a+Lazy+Ambitious+Programmer" alt="Typing SVG">
 </p>
 <div align="center">
- 
  🔭 I’m currently working on **a marketplace**
- 
  🌱 I’m currently learning **Docker, Kubernetes, Jenkins**
-
- </div>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+</div>
 <br/>
+
+<hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,git,python,vim,js,typescript,c,cs,java,nextjs,mysql,django,bootstrap,html,css,vscode,github,tailwind,pr" />
-   
 </div>
+<hr/>
+
+<br></br>
 <br></br>
 ## 📊 GitHub Stats
 <p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarThapa&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SagarThapa&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarThapa&layout=compact&theme=radical" alt="Top Languages">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarThapa&theme=radical" alt="GitHub Streak">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SagarThapa&theme=radical" alt="GitHub Streak">
 </p>
 </p>
 <br></br>
