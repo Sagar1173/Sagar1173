@@ -1,8 +1,21 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Sagar+Thapa;I'm+a+Lazy+Ambitious+Programmer" alt="Typing SVG">
 </p>
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Kubernetes, Jenkins**
 
+ </div>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=linux,git,python,vim,js,typescript,c,cs,java,nextjs,mysql,django,bootstrap,html,css,vscode,github,tailwind,pr" />
+   
+</div>
+<br></br>
 ## 📊 GitHub Stats
 <p>
 <p align="center">
@@ -15,6 +28,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarThapa&theme=radical" alt="GitHub Streak">
 </p>
 </p>
+<br></br>
 ## 🌐 Connect with me
 
 <p align="center">
