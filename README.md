@@ -19,8 +19,8 @@
 <br></br>
 ## 📊 GitHub Stats
 <p align="center">
-  <img width=400  src="https://github-readme-stats.vercel.app/api?username=SagarThapa&show_icons=true&theme=radical" alt="GitHub Stats">&ensp;
-  <img width=400  src="https://github-readme-streak-stats.herokuapp.com/?user=SagarThapa&theme=radical" alt="GitHub Streak">
+  <img width=400  src="https://github-readme-stats.vercel.app/api?username=Sagar1173&show_icons=true&theme=radical" alt="GitHub Stats">&ensp;
+  <img width=400  src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar1173&theme=radical" alt="GitHub Streak">
 </p>
 
 <br></br>
@@ -36,7 +36,7 @@
 ## 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SagarThapa&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Sagar1173&style=flat-square&color=blue" alt="Profile Views">
 </p>
 </hr>
 ## 💡 Quote or Motto
