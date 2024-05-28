@@ -19,8 +19,8 @@
 <br></br>
 ## 📊 GitHub Stats
 <p align="center">
-  <img width=400 height=300 src="https://github-readme-stats.vercel.app/api?username=Sagar1173&show_icons=true&theme=radical" alt="GitHub Stats">&ensp;
-  <img width=400 height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar1173&theme=radical" alt="GitHub Streak">
+  <img width=400 height=500 src="https://github-readme-stats.vercel.app/api?username=Sagar1173&show_icons=true&theme=radical" alt="GitHub Stats">&ensp;
+  <img width=400 height=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar1173&theme=radical" alt="GitHub Streak">
 </p>
 
 <br></br>
