@@ -3,8 +3,8 @@
 </p>
 <br/>
 <div align="center">
-<p> 🔭 I’m currently working in **Baliyo Ventures**</p>
-<p> 🌱 I’m currently learning **Docker, Kubernetes, Jenkins** </p>
+<p></p>
+<p></p>
 </div>
 <br/>
 ## 🌐 Connect with me
