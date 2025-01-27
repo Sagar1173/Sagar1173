@@ -18,8 +18,8 @@
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,typescript,nextjs,mysql,django,bootstrap,html,css,vscode,tailwind" />
-   <img src="https://skillicons.dev/icons?i=linux,git,python,vim,c,cs,github,pr,java" />
+    <img src="https://skillicons.dev/icons?i=js,nextjs,mysql,django,bootstrap,html,css,tailwind" />
+   <img src="https://skillicons.dev/icons?i=linux,git,python,c,cs,github,pr,java" />
 </div>
 <hr/>
 
